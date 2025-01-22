@@ -1,0 +1,37 @@
+
+* {
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+
+/* Element Selector */
+body{
+    background-color: aqua; /* #FF0000 */
+}
+
+/* Class Selector */
+.topic {
+    font-size: 1.5rem; /* 24 px */
+    color:brown;
+    align-items: center;
+}
+
+/* id Selector */
+#profile {
+    font-size: 1rem;
+    color:blue;
+}
+
+/* Group Selector */
+h1, h2, h3{
+    color:cadetblue;
+}
+
+.topic1 {
+    font-size: 1.5rem;
+}
+
+
+.topic2 {
+    color: aquamarine;
+}
